@@ -13,3 +13,4 @@ Defective parts are rare (less than 1% of production) and varied. The question i
 ## Contributors
 
 - Belgacem Smaali
+- Menad ACHERAIOU
